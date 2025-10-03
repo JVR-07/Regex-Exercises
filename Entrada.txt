@@ -1,0 +1,20 @@
+usuario@correo.com variable_1 192.168.1.1 +45.67
+https://www.ejemplo.com 123-456-7890 _temp_var -3.14e^-5
+info@empresa.org 555 123 4567 contador_2 6.02E23
+www.sitio-web.com +1.5e^10 nombreVariable 987-654-3210
+admin@server.local 0.00125 telefono_valido 333 444 5555
+mi_variable_123 http://api.dominio.com -273.15 222-333-4444
+contacto@empresa.com 1.618e^0 _precio_final 777 888 9999
+ftp://archivos.net variable123 -98.6 444-555-6666
+_temp@invalido 3.14159e^-2 numero_telefono 123 456 7890
+https://tienda.online _usuario1 2.71828 555-123-4567
+correo@valido.es +100.5e^+3 mi_variable 888 999 0000
+www.blog-personal.com -0.0001 _contador_global 666-777-8888
+api@servicio.com 9.81e^0 nombre_valido 111-222-3333
+http://localhost:8080 1.414e^0 variable_123 444 555 6666
+invalid@correo 6.626e^-34 _temp_value 999-888-7777
+https://sub.dominio.org +2.5e^-5 miVariable 777 666 5555
+test@example.com 299792458 _nombre_usuario 333-222-1111
+www.ejemplo.es -1.602e^-19 variableFinal 222 333 4444
+correo@dominio.mx 6.674e^-11 _api_key 888-777-6666
+https://app.empresa.com 4.669e^0 nombreVariable123 555 444 3333
