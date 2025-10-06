@@ -10,7 +10,7 @@ The regex used is: `^\d{3}[-\s]\d{3}[-\s]\d{4}$`
 
 ## Regex-Decimales.py
 For this exercise, I used a regular expression to check if the input is a valid integer or decimal number. I used two different regex patterns for this:
-- **Integer:**`'^[-+]?\d+$'`
+- **Integer:**`^[-+]?\d+$`
 - **Decimal:**`^[-+]?(\d+)?\.(\d+)?([eE]\^?[-+]?\d+)?$`
 
 ## Regex-Correo-o-Url.py
