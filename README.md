@@ -8,6 +8,9 @@ This small repository is a compilation of exercises I created for one of my clas
 This is the first exercise, and I used the `re` library for the first time in Python. This code has a regex to check if the input is a valid phone number with one of these two formats  **XXX-XXX-XXXX** & **XXX XXX XXXX**.
 The regex used is: `^\d{3}[-\s]\d{3}[-\s]\d{4}$`
 
+## Regex-Variables.py
+For this exercise, I used a regular expression to check if the input is a valid variable name.
+
 ## Regex-Decimales.py
 For this exercise, I used a regular expression to check if the input is a valid integer or decimal number. I used two different regex patterns for this:
 - **Integer:**`^[-+]?\d+$`
